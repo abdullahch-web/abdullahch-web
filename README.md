@@ -15,7 +15,7 @@
 </p>
 
   <img src="./gitartwork.svg" alt="Views">
-  <img src="https://img.shields.io/badge/Joined-2020-blue?style=for-the-badge&logo=github" alt="Views">
+  <img src="https://img.shields.io/badge/Joined-2025-blue?style=for-the-badge&logo=github" alt="Views">
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -163,8 +163,7 @@
 
 
 <div align="center">
-  
-<p><img align="center" src="https://streak-stats.demolab.com/?user=abdullahch-web" alt="abdullahch-web" /></p>
+ <p><img align="center" src="https://streak-stats.demolab.com/?user=zeeshanali90233" alt="abdullahch-web" /></p>
            </div>
 
 
