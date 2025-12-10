@@ -1,0 +1,21 @@
+name: gitartwork from a contribution graph
+
+on:
+  push:
+
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: jasineri/gitartwork@v1
+        with:
+          # your GitHub username
+          user_name: abdullahch-web
+          # text that will appear as art
+          text: ABDULLAH
+
+      - uses: jasineri/simple-push-action@v1
